@@ -1,0 +1,13 @@
+{
+  "name": "vueautosuggest-api-fetching",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/mjqrk7v2rx",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "0.17.1",
+    "vue": "2.5.2",
+    "vue-autosuggest": "1.7.1-2"
+  }
+}
